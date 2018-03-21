@@ -1,4 +1,4 @@
-# JINYU Web Video Crawlar Testool
+# Web Video Crawlar Testool
 2018-3-20
 
 This is a python program for studying how to realize a simple WebCrawler.
