@@ -34,6 +34,7 @@ Recently, more functions using aid-get will be added in BilibiliAid.py.
 
 ## BiliGetStat.py
 This script shows how to get bili video's statistic information by parsing json objects of api of bilibili.com.
-* **[av170001](http://api.bilibili.com/archive_stat/stat?aid=170001)
+
+* **[Stat av170001](http://api.bilibili.com/archive_stat/stat?aid=170001)
 
 
