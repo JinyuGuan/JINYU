@@ -6,6 +6,7 @@ Notice that this program now only can be applied in testing and getting data tho
 Setting your path of chromedriver is a good start.
 
 2018-3-24
+
 The most recent eidtion of script of capturing upper's videos' information is BiliBiliAVListInfo.py. If you are going to using that script, the content below starting from 'Installation' can be igored. Please read very carefully following explanation about BiliBiliAVListInfo.py.
 
 ## BiliBiliAVListInfo.py
