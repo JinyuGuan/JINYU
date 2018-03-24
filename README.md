@@ -12,17 +12,17 @@ The most recent eidtion of script of capturing upper's videos' information is Bi
 
 This script includes several functions to obtain all videos' information for a certain upper of bilibili.com. Before using it, you must have the upper's uid. Remember that, and all following functions' input is uid.
 
-* **getAVListPageInfo(uid)
-* **getAVListCountInfo(uid)
-* **getAVJsonText(uid)
+* getAVListPageInfo(uid)
+* getAVListCountInfo(uid)
+* getAVJsonText(uid)
 
 This three functions are internally private function, so you don't have to call them in your script.
 
-** getALLAVList(uid)
+* getALLAVList(uid)
 
 The return value is a list of all videos' aid. You can capture other information by entering api of each video or you can call following function.
 
-** getAllAVInfo(uid)
+* getAllAVInfo(uid)
 
 ## Installation
 ### Prerequisites
